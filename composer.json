@@ -1,0 +1,22 @@
+{
+    "name": "kommai/testkit",
+    "description": "The kommai test kit",
+    "type": "library",
+    "homepage": "https://github.com/kommai/testkit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "The Kommai Toolkit",
+            "email": "dev@kommai.app"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "TestKit\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

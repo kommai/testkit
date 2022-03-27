@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TestKit\\": "src/"
+            "Kommai\\TestKit\\": "src/"
         }
     },
     "minimum-stability": "dev"

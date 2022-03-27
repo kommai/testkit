@@ -1,6 +1,6 @@
 # TestKit
 
-The kommai test kit is a set of tools to perform test on PHP stuff.
+The kommai test kit is a set of tools that perform test on PHP stuff.
 
 ## TODO
 
